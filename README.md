@@ -1,5 +1,3 @@
-> [!TIP]
-> Read This First
 
 
 # Gina Silva's SQL Portfolio
